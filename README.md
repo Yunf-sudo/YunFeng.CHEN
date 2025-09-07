@@ -2,6 +2,10 @@
 
 Here are some ideas to get you started:
 
+# My favorite is Nailong
+
+![奶龙](nailong.gif "nailong")
+
 - 🔭 I’m currently working on CV
 - 🌱 I’m currently learning AI
 - 🤔 I’m looking for help with grow way
