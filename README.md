@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-# My favorite is Nailong
+🔥
 
 ![奶龙](nailong.gif "nailong")
 
