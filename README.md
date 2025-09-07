@@ -1,8 +1,4 @@
-## Hi there 👋
-
-Here are some ideas to get you started:
-
-🔥
+🔥# 凡人妄想窥探奶龙大帝的真容吗 🔥
 
 ![奶龙](nailong.gif "nailong")
 
